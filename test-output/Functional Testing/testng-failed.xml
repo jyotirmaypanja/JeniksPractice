@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Functional Testing]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="edge"/>
+  <parameter name="platform" value="windows"/>
+  <test thread-count="5" name="Functional Test(failed)">
+    <classes>
+      <class name="com.wiproJuly.Testng.FirstTestng">
+        <methods>
+          <include name="testdragdrop"/>
+        </methods>
+      </class> <!-- com.wiproJuly.Testng.FirstTestng -->
+    </classes>
+  </test> <!-- Functional Test(failed) -->
+</suite> <!-- Failed suite [Functional Testing] -->

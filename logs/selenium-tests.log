@@ -1,0 +1,46 @@
+2025-08-20 10:58:03 [main] INFO  LoggerHelper - Starting login test...
+2025-08-20 10:58:05 [main] INFO  LoggerHelper - Opened browser and navigated to saucedemo
+2025-08-20 10:58:07 [main] INFO  LoggerHelper - Entered username
+2025-08-20 10:58:10 [main] INFO  LoggerHelper - Entered password
+2025-08-20 10:58:12 [main] INFO  LoggerHelper - Clicked login button
+2025-08-20 10:58:14 [main] INFO  LoggerHelper - Browser closed
+2025-08-20 11:59:13 [main] INFO  LoggerHelper - Invoking the browser
+2025-08-20 11:59:13 [main] INFO  LoggerHelper - Entering the username
+2025-08-20 11:59:17 [main] INFO  LoggerHelper - Entering the password
+2025-08-20 11:59:29 [main] INFO  LoggerHelper - Invoking the browser
+2025-08-20 11:59:29 [main] INFO  LoggerHelper - Entering the username
+2025-08-20 11:59:33 [main] INFO  LoggerHelper - Entering the password
+2025-08-20 11:59:45 [main] INFO  LoggerHelper - Invoking the browser
+2025-08-20 11:59:45 [main] INFO  LoggerHelper - Entering the username
+2025-08-20 11:59:49 [main] INFO  LoggerHelper - Entering the password
+2025-08-23 11:12:50 [main] INFO  LoggerHelper - Invoking the browser
+2025-08-23 11:12:50 [main] INFO  LoggerHelper - Entering the username
+2025-08-23 11:12:54 [main] INFO  LoggerHelper - Entering the password
+2025-08-23 11:13:06 [main] INFO  LoggerHelper - Invoking the browser
+2025-08-23 11:13:06 [main] INFO  LoggerHelper - Entering the username
+2025-08-23 11:13:10 [main] INFO  LoggerHelper - Entering the password
+2025-08-23 11:13:24 [main] INFO  LoggerHelper - Invoking the browser
+2025-08-23 11:13:24 [main] INFO  LoggerHelper - Entering the username
+2025-08-23 11:13:28 [main] INFO  LoggerHelper - Entering the password
+2025-08-23 11:13:57 [main] INFO  LoggerHelper - Starting login test...
+2025-08-23 11:14:00 [main] INFO  LoggerHelper - Opened browser and navigated to saucedemo
+2025-08-23 11:14:02 [main] INFO  LoggerHelper - Entered username
+2025-08-23 11:14:05 [main] INFO  LoggerHelper - Entered password
+2025-08-23 11:14:07 [main] INFO  LoggerHelper - Clicked login button
+2025-08-23 11:14:09 [main] INFO  LoggerHelper - Browser closed
+2025-08-23 11:15:31 [main] INFO  LoggerHelper - Invoking the browser
+2025-08-23 11:15:39 [main] INFO  LoggerHelper - Starting login test...
+2025-08-23 11:19:08 [main] INFO  LoggerHelper - Invoking the browser
+2025-08-23 11:19:08 [main] INFO  LoggerHelper - Entering the username
+2025-08-23 11:19:13 [main] INFO  LoggerHelper - Entering the password
+2025-08-23 11:19:25 [main] INFO  LoggerHelper - Invoking the browser
+2025-08-23 11:19:25 [main] INFO  LoggerHelper - Entering the username
+2025-08-23 11:19:29 [main] INFO  LoggerHelper - Entering the password
+2025-08-23 11:19:42 [main] INFO  LoggerHelper - Invoking the browser
+2025-08-23 11:19:42 [main] INFO  LoggerHelper - Entering the username
+2025-08-23 11:19:46 [main] INFO  LoggerHelper - Entering the password
+2025-08-23 12:19:23 [main] INFO  LoggerHelper - Invoking the browser
+2025-08-23 12:19:23 [main] INFO  LoggerHelper - Entering the username
+2025-08-23 12:19:27 [main] INFO  LoggerHelper - Entering the password
+2025-08-23 12:19:40 [main] INFO  LoggerHelper - Invoking the browser
+2025-08-23 12:32:28 [main] INFO  LoggerHelper - Invoking the browser

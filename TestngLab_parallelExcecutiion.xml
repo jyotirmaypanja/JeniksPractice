@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Smoke Suite" verbose="1">
+
+  <test name="Smoke Tests" parallel="classes" thread-count="4">
+    
+
+    <classes>
+      <class name="com.wiproJuly.LabSession18thAug.LabAssignment1"/>
+      <class name="com.wiproJuly.LabSession18thAug.LabAssignment2"/>
+      <class name="com.wiproJuly.LabSession18thAug.LabAssignment3"/>
+      <class name="com.wiproJuly.LabSession18thAug.LabAssignment4"/>
+    </classes>
+  </test>
+
+</suite>
