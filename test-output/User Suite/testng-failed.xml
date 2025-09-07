@@ -3,11 +3,13 @@
 <suite name="Failed suite [User Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Sanity and Smoke Tests(failed)">
     <classes>
-      <class name="com.wiproJuly.Testng.FirstTestng">
+      <class name="com.capstoneProject.HealthCare.ProgramPagesClickableResourcesTest">
         <methods>
-          <include name="testdragdrop"/>
+          <include name="validateHealthyAgingAndResourceClickable"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- com.wiproJuly.Testng.FirstTestng -->
+      </class> <!-- com.capstoneProject.HealthCare.ProgramPagesClickableResourcesTest -->
     </classes>
   </test> <!-- Sanity and Smoke Tests(failed) -->
 </suite> <!-- Failed suite [User Suite] -->
