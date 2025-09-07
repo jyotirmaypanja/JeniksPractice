@@ -5,7 +5,10 @@
     
 
     <classes>
-      <class name="com.wiproJuly.Testng.TestNgSkipTestcases"/>
+      <class name="com.capstoneProject.HealthCare.HomePage"/>
+      <class name="com.capstoneProject.HealthCare.ProgramPagesClickableResourcesTest"/>
+      <class name="com.capstoneProject.HealthCare.ContactUsValidationTest"/>
+      
     </classes>
   </test>
 

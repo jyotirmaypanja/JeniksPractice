@@ -2,6 +2,8 @@ package com.wiproJuly.JavaSdet;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -14,11 +16,11 @@ import org.openqa.selenium.WebElement;
 public class InvokeChromeBrowser {
 	public static void main(String[] args) throws InterruptedException {
 		
-		ChromeOptions co=new ChromeOptions();
+		//ChromeOptions co=new ChromeOptions();
 		
-		WebDriverManager.chromedriver().setup();
+		//WebDriverManager.chromedriver().setup();
 		
-		WebDriver driver= new ChromeDriver(co);
+		WebDriver driver= new FirefoxDriver();
 		
 		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 		//name locator
